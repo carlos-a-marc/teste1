@@ -1,0 +1,25 @@
+<svg width="258" height="258" viewBox="0 0 258 258" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="129" cy="129" r="129" fill="#C4C4C4"/>
+<circle cx="129" cy="129" r="129" fill="url(#paint0_linear_1114_112)"/>
+<mask id="mask0_1114_112" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="50" y="50" width="158" height="158">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M158.348 73.5652H138.783V54H119.217V73.5652H99.6522V93.1304H119.217V138.783H138.783V93.1304H158.348V73.5652Z" stroke="black" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M158.348 73.5652H138.783V54H119.217V73.5652H99.6522V93.1304H119.217V138.783H138.783V93.1304H158.348V73.5652Z" stroke="black" stroke-opacity="0.2" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M145.304 204H184.435V184.435H145.304V204Z" stroke="black" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M145.304 204H184.435V184.435H145.304V204Z" stroke="black" stroke-opacity="0.2" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M177.913 184.435V174.45C177.913 174.45 198.691 153.874 204 148.565V95.9806C204 95.9806 187.696 90.0719 187.696 135.522L168.333 154.885L172.82 135.32C175.063 125.941 166.487 121.931 161.811 129.202C157.506 135.9 151.826 155.035 151.826 155.035V184.435" stroke="black" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M177.913 184.435V174.45C177.913 174.45 198.691 153.874 204 148.565V95.9806C204 95.9806 187.696 90.0719 187.696 135.522L168.333 154.885L172.82 135.32C175.063 125.941 166.487 121.931 161.811 129.202C157.506 135.9 151.826 155.035 151.826 155.035V184.435" stroke="black" stroke-opacity="0.2" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M73.5652 204H112.696V184.435H73.5652V204Z" stroke="black" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M73.5652 204H112.696V184.435H73.5652V204Z" stroke="black" stroke-opacity="0.2" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M80.087 184.435V174.45C80.087 174.45 60.5217 153.874 54 148.565V95.9806C54 95.9806 70.3043 90.0719 70.3043 135.522L89.6674 154.885L85.1804 135.32C82.937 125.941 91.513 121.931 96.1891 129.202C100.493 135.9 106.174 155.035 106.174 155.035V184.435" stroke="black" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M80.087 184.435V174.45C80.087 174.45 60.5217 153.874 54 148.565V95.9806C54 95.9806 70.3043 90.0719 70.3043 135.522L89.6674 154.885L85.1804 135.32C82.937 125.941 91.513 121.931 96.1891 129.202C100.493 135.9 106.174 155.035 106.174 155.035V184.435" stroke="black" stroke-opacity="0.2" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</mask>
+<g mask="url(#mask0_1114_112)">
+<rect x="46" y="41" width="165" height="173" fill="white"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1114_112" x1="258" y1="0" x2="12.7551" y2="269.603" gradientUnits="userSpaceOnUse">
+<stop stop-color="#199EF4"/>
+<stop offset="1" stop-color="#BADBB9"/>
+</linearGradient>
+</defs>
+</svg>
